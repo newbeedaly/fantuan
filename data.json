@@ -1,0 +1,6 @@
+[
+    { id: 1, icon: './../images/favicon.png', name: '红包11' },
+    { id: 2, icon: './../images/favicon.png', name: '红包12' },
+    { id: 3, icon: './../images/favicon.png', name: '红包13' },
+    { id: 4, icon: './../images/favicon.png', name: '红包14' }
+]
